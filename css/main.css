@@ -19,8 +19,8 @@ a {
   border-radius: 8px;
 }
 
-h1 {
-  font-family: "Dosis", bold;
+h2 {
+  font-family: Dosis, bold;
   font-size: 1.5rem;
   margin: 0 0 1rem;
   line-height: 1.5rem;
@@ -50,7 +50,7 @@ dt {
 }
 
 span {
-  font-family: "Dosis", bold;
+  font-family: Dosis, bold;
   font-weight: bold;
   font-size: 1.125rem;
   color: #fff;
@@ -79,5 +79,5 @@ div {
 }
 
 .link-card h2 {
-  color: #fff;
+  text-align: left;
 }
